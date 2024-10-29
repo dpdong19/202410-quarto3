@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: fc6a76c9-60a3-4ecc-8ee4-66705b21ee23
+      url: 'https://dpdong.quarto.pub/202410-quartoweb'
